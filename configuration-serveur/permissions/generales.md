@@ -13,8 +13,8 @@ description: Les permissions générales
 ![Permissions](https://i.discord.fr/YNX.png)
 
 ### • Administrateur
-Les membres ayant cette permission ont accès aux mêmes droits que le propriétaire du serveur. Cependant, une personne ayant ce rôle ne peut pas modifier son rôle le plus haut ni ceux au-dessus s'il y en a, ni supprimer le serveur.
-Il n'est pas non plus possible de gérer l'A2F ; si celle-ci est rendue obligatoire par le propriétaire pour les actions de modération, un utilisateur qui ne l'a pas activée ne pourra pas agir malgré ses permissions.
+Les membres ayant cette permission ont accès aux mêmes droits que le propriétaire du serveur. Cependant, une personne ayant ce rôle ne peut pas modifier les rôles au-dessus du sien, ni supprimer le serveur.
+Il n'est pas non plus possible de gérer l'A2F ; si celle-ci est rendue obligatoire par le propriétaire pour les actions de modération, un utilisateur qui ne l'a pas activé ne pourra pas agir malgré ses permissions.
 
 ### • Voir les logs du serveur
 
@@ -62,7 +62,7 @@ Les membres ayant cette permission peuvent changer eux-mêmes leur pseudo au sei
 
 ### • Gérer les pseudos
 
-Les membres ayant cette permission peuvent modifier les pseudos d'autres membres, à condition qu'ils n'aient pas le même rôle qu'eux ou un au-dessus.
+Les membres ayant cette permission peuvent modifier les pseudos d'autres membres, à condition qu'ils n'aient pas un rôle supérieur ou égal au leur.
 
 ![Gérer les pseudos](https://i.discord.fr/T06.png)
 
