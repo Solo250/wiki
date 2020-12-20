@@ -22,6 +22,7 @@ Un boost coûte $4,99, mais si l'utilisateur possède un abonnement Nitro, il b�
 
 ### Qu'est-ce que sont les niveaux de serveur ?
 Un niveau de serveur est un palier qui permet de débloquer des avantages au sein d'un serveur. Ils sont débloqués dès lors que le serveur a atteint un nombre de boost défini.
+Attention ! Le mois suivant l'achat du Boost, vous ne l'avez plus et en l'occurence, le serveur n'est plus boosté et peut perdre des niveaux.
 
 ![Exemple boost](https://i.discord.fr/fda.png)
 
